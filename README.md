@@ -1,4 +1,4 @@
-# trex-go
+# Trex GO
 
 Trex Go, şirket içi bir sosyal medya ve iş takip projesidir. Bu proje, stajyerler için özelolarak tasarlanmıştır. 
 
